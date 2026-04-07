@@ -1,2 +1,2 @@
 # exoplanets
-I used Python in Google Colab to analyze real exoplanet data. I visualized the relationship between orbital period and planet mass using logarithmic scales, and also analyzed how different detection methods compare.
+I used Python in Google Colab to analyze real exoplanet data. I visualized the relationship between orbital period and planet mass using logarithmic scales, and also analyzed how different detection methods compare. I also added another exoplanets rep with the habitable planets.
